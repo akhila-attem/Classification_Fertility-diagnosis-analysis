@@ -1,5 +1,6 @@
 
-Fertility Diagnosis_Dataset_Using_MachineLearning
+Classification_Fertility Diagnosis_Dataset_Using_MachineLearning
+
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP).
 
 Key highlights:
