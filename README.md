@@ -11,3 +11,11 @@ Key highlights:
 3.Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, Decision tree,Random forest,KNN and Boosting,SVM.
 
 4.Compared the results to recommend the best Classification model.
+
+I have used 2 different colab notebooks which covers all the algorithms as mentioned above.
+
+*Project Colab Notebook Link:*   
+    https://github.com/akhila-attem/Classification_Fertility-diagnosis-analysis
+    
+*Presentation link:*
+     https://www.canva.com/design/DAFOGH3MxW8/TIUfrcnzZEUQDr3Nexbb-Q/edit?utm_content=DAFOGH3MxW8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
