@@ -19,4 +19,4 @@ I have used 2 different colab notebooks which covers all the algorithms as menti
     https://github.com/akhila-attem/Classification_Fertility-diagnosis-analysis
     
 *Presentation link:*
-     https://www.canva.com/design/DAFOGH3MxW8/TIUfrcnzZEUQDr3Nexbb-Q/edit?utm_content=DAFOGH3MxW8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    https://drive.google.com/file/d/16SfRIYkmzKjLimxLaPMbADmjFEOJpJJF/view?usp=sharing
